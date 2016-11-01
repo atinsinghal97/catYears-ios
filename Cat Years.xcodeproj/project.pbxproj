@@ -266,7 +266,7 @@
 				DEVELOPMENT_TEAM = EWSB78Y5YB;
 				INFOPLIST_FILE = "Cat Years/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.AtinSinghal97.Cat-Years";
+				PRODUCT_BUNDLE_IDENTIFIER = com.AtinSinghal97.catYears;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -279,7 +279,7 @@
 				DEVELOPMENT_TEAM = EWSB78Y5YB;
 				INFOPLIST_FILE = "Cat Years/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.AtinSinghal97.Cat-Years";
+				PRODUCT_BUNDLE_IDENTIFIER = com.AtinSinghal97.catYears;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -304,6 +304,7 @@
 				AD6F555C1DC6591F00C15153 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
